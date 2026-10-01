@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://tubu.io">
-    <img src="https://raw.githubusercontent.com/tubuarge/.github/main/profile/logo.svg" alt="tubu" width="200">
+    <img src="https://raw.githubusercontent.com/tubuarge/.github/main/profile/logo.svg" alt="tubu" width="150">
   </a>
 
   <h3 align="center">TUBU ARGE A.Ş.</h3>
