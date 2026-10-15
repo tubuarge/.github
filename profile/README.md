@@ -18,8 +18,6 @@
     ·
     <a href="https://www.linkedin.com/company/tubu-arge/">LinkedIn</a>
     ·
-    <a href="https://x.com/tubu_io">X</a>
-    ·
     <a href="mailto:info@tubu.io">Contact</a>
   </p>
 </p>
